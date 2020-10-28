@@ -1,0 +1,22 @@
+body {
+    background-color: grey;
+    padding-top: 56px;
+}
+
+.jumbotron {
+    padding-top: 56px;
+    background: url("../images/image-jumbotron.png") no-repeat center;
+}
+.btn-primary {
+    background-color: #c60063;
+    border-color: #c60063;
+}
+.btn-secondary {
+    background-color: transparent;
+    border-color: #c60063;
+    color: #c60063;
+}
+#contact {
+    background: url("../images/boton_contact.png") no-repeat center;
+}
+
